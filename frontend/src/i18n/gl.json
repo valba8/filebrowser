@@ -119,7 +119,7 @@
       "newArchetype": "Crea un novo post baseado nun arquetipo. O teu arquivo será creado na carpeta de contido."
     },
     "settings": {
-      "instanceName": "nome da instancia",
+      "instanceName": "Nome da instancia",
       "brandingDirectoryPath": "Ruta da carpeta de personalizacion de marca",
       "documentation": "documentación",
       "branding": "Marca",
@@ -157,7 +157,7 @@
       "settingsUpdated": "Axustes actualizados!",
       "user": "Usuario",
       "userCommands": "Comandos",
-      "userCommandsHelp": "unha lista separada por espazos cos comandos permitidos para este usuario. Exemplo:\n",
+      "userCommandsHelp": "Unha lista separada por espazos cos comandos permitidos para este usuario. Exemplo:\n",
       "userCreated": "Usuario creado!",
       "userDeleted": "Usuario eliminado!",
       "userManagement": "Administración de usuarios",
@@ -189,8 +189,8 @@
       "signup": "Rexístrate",
       "logout": "Pechar sesión",
       "myFiles": "Os meus arquivos",
-      "newFile": "novo arquivo",
-      "newFolder": "nova carpeta",
+      "newFile": "Novo arquivo",
+      "newFolder": "Nova carpeta",
       "settings": "Axustes",
       "siteSettings": "Axustes do sitio",
       "hugoNew": "Novo Hugo",
