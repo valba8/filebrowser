@@ -231,7 +231,8 @@
     "ko": "한국어",
     "nlBE": "Dutch（Belgium）",
     "ro": "Romanian",
-    "svSE": "Swedish（Sweden）"
+    "svSE": "Swedish（Sweden）",
+    "gl": "Galego"
   },
   "time": {
     "unit": "時間單位",

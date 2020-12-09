@@ -29,7 +29,8 @@ export default {
         ru: 'ru',
         'sv-se': 'svSE',
         'zh-cn': 'zhCN',
-        'zh-tw': 'zhTW'
+        'zh-tw': 'zhTW',
+        gl : 'gl'
       }
     };
 

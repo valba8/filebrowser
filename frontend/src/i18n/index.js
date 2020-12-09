@@ -19,6 +19,7 @@ import ru from './ru.json'
 import svSE from './sv-se.json'
 import zhCN from './zh-cn.json'
 import zhTW from './zh-tw.json'
+import gl from './gl.json'
 
 Vue.use(VueI18n)
 
@@ -70,6 +71,9 @@ export function detectLocale () {
     case /^ko.*/i.test(locale):
       locale = 'ko'
       break
+    case /^gl.*/i.test(locale):
+        locale = 'gl'
+        break
     default:
       locale = 'en'
   }
@@ -98,7 +102,8 @@ const i18n = new VueI18n({
     'ro': ro,
     'sv-se': svSE,
     'zh-cn': zhCN,
-    'zh-tw': zhTW
+    'zh-tw': zhTW,
+    'gl': gl
   }
 })
 
